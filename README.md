@@ -4,7 +4,7 @@ An event study of exclusions by Norway's Government Pension Fund Global (GPFG), 
 
 Author: Nils Kuhfuß
 
-Programme: M.Sc. Industrial Engineering and Management
+Programme: M.Sc. Industrial Engineering
 
 Chair: Finance and Banking
 
