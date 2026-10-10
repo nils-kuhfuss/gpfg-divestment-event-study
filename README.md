@@ -63,11 +63,9 @@ Publication status: The coursework paper is complete; the PDF and supporting ana
 
 Intended location	Contents
 
-paper/gpfg_event_study.pdf	Full coursework paper in German
-
-code/	R analysis scripts and any accompanying source files
-
-README.md	English research summary
+- paper/gpfg_event_study.pdf:	Full coursework paper in German
+- code/	R: analysis scripts and any accompanying source files
+- README.md:	English research summary
 
 
 Commercial LSEG source data are not distributed here. Reproducing the analysis requires appropriate data access and the input-file preparation documented for the project. Package versions, execution order and any required Excel steps will be added when the analysis files have been organised for publication.
