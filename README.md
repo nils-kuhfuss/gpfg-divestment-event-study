@@ -8,7 +8,7 @@ Programme: M.Sc. Industrial Engineering and Management
 
 Chair: Finance and Banking
 
-Supervision: Prof. Dr. Hendrik Scholz and Anja Stiller
+Supervision: Prof. Dr. Hendrik Scholz
 
 Submitted: 31 March 2025
 
