@@ -58,12 +58,15 @@ Limitations and replication status
 The small sample limits statistical power, particularly in regional comparisons. Announcement times within the trading day are unknown, so an observed response may fall on the following trading day. Actual GPFG sales are not observed, and coinciding company or market news may also influence returns.
 The paper identifies incomplete inferential checks and an unresolved similarity between the reported Patell and Boehmer statistics. The reported results have not yet been revalidated through a documented repository replication workflow; the statistical-test implementation should be reviewed as part of that process.
 Repository contents and data availability
+
 Publication status: The coursework paper is complete; the PDF and supporting analysis files are being prepared for upload.
 
 Intended location	Contents
 
 paper/gpfg_event_study.pdf	Full coursework paper in German
+
 code/	R analysis scripts and any accompanying source files
+
 README.md	English research summary
 
 
